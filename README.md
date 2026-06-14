@@ -1,2 +1,28 @@
-# 06efdd54b243ae9e-ecommerce-performance-metrics
-Professional performance metrics dashboard built for ecommerce operations and growth.
+# Ecommerce Performance Metrics Dashboard
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu8wP26HbUE1de5bucZd0l)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu8wP26HbUE1de5bucZd0l)
+
